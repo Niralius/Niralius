@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Michael H.
+- 👀 I do any kind of dev, but what I truly enjoy is Game Programming and stand alone products.
+- 🌱 Always learning and trying new things out, looking forward for some more in-depth AI/ML knowledge.
+- 📫 You can reach me at michaelheffnercruz(gmail)
